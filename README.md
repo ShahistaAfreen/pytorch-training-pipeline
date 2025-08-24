@@ -15,6 +15,7 @@ The goal is to provide a minimal working example for:
 It is a binary classification dataset with 30 features and a target variable (malignant or benign).  
 ---
 
+---
 ## Results
 
 During training, the loss decreases steadily as expected:
@@ -28,7 +29,7 @@ Epoch: 25, Loss: 0.2318
 
 
 Final model accuracy: 52.8%
-
+---
 ## Future Improvements
 
 Improve accuracy by adding multiple layers
